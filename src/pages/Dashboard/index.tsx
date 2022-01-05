@@ -31,6 +31,7 @@ const SignUp: React.FC<DashboardScreenProps> = ({navigation}) => {
       <Earnings />
       <Goals />
       <Tab />
+      
     </SafeView>
   );
 };
